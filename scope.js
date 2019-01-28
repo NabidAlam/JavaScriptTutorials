@@ -17,7 +17,7 @@ if(true){
     let king = 'Sam'
 
     if(true){
-        let king = 'Ram'
+        //let king = 'Ram'
         console.log(king)
     }
 }
